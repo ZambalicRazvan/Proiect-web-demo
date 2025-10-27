@@ -3,5 +3,5 @@
 *Da da ,subsectiuni*
 **Ingrosat**
 -Nu e element de lista
-![TextLink] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdownload&psig=AOvVaw04G4-7NDsmgHdr3PkNZOEK&ust=1761651303575000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC2tdOkxJADFQAAAAAdAAAAABAE) 
+![TextLink] (https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNG0zbG1maW5xZHE3YWJjN2NyY3JmbWdnNnYzeWFmaG94M2VlcjlxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRFQYGCokErS0/200w.gif) 
 
